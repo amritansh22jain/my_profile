@@ -1,7 +1,9 @@
 # Software Developer and AI Engineer
 
 ## About
+<div align="justify">
 A post-graduate from University College London (UCL) with a degree in Artificial Intelligence for Biomedicine and Healthcare. I have a strong interest in using AI to drive innovation and sustainable growth in various fields. With over four years of experience in the IT industry, I have a solid foundation in full-stack development. My goal is to apply my recently acquired skills in machine learning to deliver data-driven insights and solutions that can help solve complex practical challenges. I am committed to honesty, continuous learning, and innovation, and I aspire to contribute to the transformation of industries towards a data-centric future.
+</div>
 
 ## Eductaion
 - MSc in AI for Biomedicine and Healthcare | **University College London, UK (_2022-2023_)**
