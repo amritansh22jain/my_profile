@@ -11,7 +11,7 @@ A post-graduate from University College London (UCL) with a degree in Artificial
 
 The focused modules were Probabilistic Modelling, Foundations of AI, Deep Representations and Learning (Neural Networks), AI for Biomedicine and Healthcare, Applied AI, Computational Modelling for Biomedical Imaging and Entrepreneurship.
 
-**Dissertation Project:** 2D U-Net Deep Learning Implementation for Contrast-Enhanced Tumour Identification and Synthesis of Contrast-Enhanced MRI in Glioma Patients. (<a href="/pdfs/ThesisReport.pdf" class="image fit">PDF</a>)
+**Dissertation Project:** 2D U-Net Deep Learning Implementation for Contrast-Enhanced Tumour Identification and Synthesis of Contrast-Enhanced MRI in Glioma Patients. (<a href="/assets/pdfs/ThesisReport.pdf" class="image fit">PDF</a>)
 
 **Degree Award:** Distinction.
 
