@@ -1,6 +1,13 @@
-<!-- ─────────────────────────────────────────────────────── -->
-# Software Developer & AI Engineer
+<!-- Embed profile picture -->
+<div align="center">
+  <img
+    src="{{ '/assets/img/ProfilePicture.jpg' | relative_url }}"
+    alt="Amritansh Jain"
+    style="border-radius:50%; width:150px; margin-bottom:1rem;"
+  />
+</div>
 
+<!-- Now your contacts -->
 ## Contact
 - 📍 107A Cricklewood Broadway, NW2 3JG, London, UK  
 - 📞 +44 7502 563 371  
